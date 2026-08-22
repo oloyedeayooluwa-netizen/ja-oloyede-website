@@ -600,8 +600,8 @@ section { padding: clamp(56px, 9vw, 110px) 0; }
 /* Hero photo */
 .hero-photo {
   width: 100%;
-  max-width: 420px;
-  height: 520px;
+  max-width: 390px;
+  height: 500px;
   object-fit: cover;
   object-position: center top;
   margin: 0 auto 36px;
