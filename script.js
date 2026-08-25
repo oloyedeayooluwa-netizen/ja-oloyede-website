@@ -89,6 +89,10 @@ document.addEventListener("DOMContentLoaded", function () {
             // Show confirmation message
             if (formStatus) {
                 formStatus.classList.add("show");
+                // Google Ads conversion tracking
+gtag('event', 'conversion', {
+    'send_to': 'AW-18405026202/WkPCCIXK6OYcEJrTmchE'
+});
             }
 
             // Open the user's email application
